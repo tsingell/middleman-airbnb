@@ -1,0 +1,45 @@
+lisbon:
+  name: 'Le Wagon Lisbon'
+  address: 'cais do sodre'
+  open: true
+  photo: "tsingell"
+paris:
+  name: 'Le Wagon Paris'
+  address: 'eiffel tower'
+  open: false
+  photo: "tsingell"
+london:
+  name: 'Le wagon London'
+  address: 'Lombard street'
+  open: false
+  photo: "BenDu89"
+rio:
+  name: 'Le Wagon Rio Janeiro'
+  address: 'something'
+  open: true
+  photo: "BenDu89"
+bali:
+  name: 'Le Wagon Bali'
+  address: 'nowhere'
+  open: true
+  photo: 'tsingell'
+berlin:
+  name: 'Le Wagon Berlin'
+  address: 'Germany'
+  open: false
+  photo: 'tsingell'
+amsterdam:
+  name: 'Le Wagon Amsterdam'
+  address: 'China'
+  open: true
+  photo: 'tsingell'
+bordeaux:
+  name: 'Le Wagon bordeaux'
+  address: 'La Tequilla'
+  open: true
+  photo: 'tsingell'
+chengdu:
+  name: 'Le Wagon Chengdu'
+  address: 'Le Baguette'
+  open: true
+  photo: 'tsingell'
